@@ -9,7 +9,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-public class git --versionFormTest {
+public class FormTest{
     static public WebDriver driver;
     public static String URI="https://demoqa.com/automation-practice-form";
     public static String FIRST_NAME ="Ciocan";
